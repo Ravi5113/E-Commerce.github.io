@@ -40,8 +40,8 @@
   }
 
   .arrival_section .arrival_bg_box img {
-    -o-object-position: top right;
-    object-position: top right;
+    display: none;
+    visibility: hidden;
   }
 
   .client_section .carousel-control-prev {
